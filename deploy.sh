@@ -8,5 +8,5 @@ git init
 git add -A
 git commit -m 'feat:自动化脚本提交'
 git branch -M main
-git remote add origin https://github.com/iamdongxu/koa-api.git
+# git remote add origin https://github.com/iamdongxu/koa-api.git
 git push -u origin main
